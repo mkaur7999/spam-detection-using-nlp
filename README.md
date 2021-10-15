@@ -10,15 +10,13 @@ Deployed at: _https://spam101803562.herokuapp.com/_
 • Created a machine learning model that **detects/classifies a SMS into SPAM or HAM (normal) based on the textual data using Natural Language Processing.**<br/>
 • **Engineered features like word_count, contains_currency_symbol, and contains_number** from the text SMS.
 
-## How will this project help?
-• This project **helps in filtering/cleaning the SMS from the phone.**
-
-## Resources Used
-• Packages: **pandas, numpy, sklearn, matplotlib, seaborn, nltk.**<br/>
-• Dataset by **UCI Machine Learing on Kaggle**: https://www.kaggle.com/uciml/sms-spam-collection-dataset
-
 ## Flowchart of Methodology
 ![Flowchart of Methodology](https://github.com/mkaur7999/spam-detection-using-nlp/blob/main/Flowchart_of_Methodology.jpeg)
+
+## Spam Detection Output 
+![Spam Detection Output ](https://github.com/mkaur7999/spam-detection-using-nlp/blob/main/spam.JPG)
+
+![I NOT spam](https://github.com/mkaur7999/spam-detection-using-nlp/blob/main/Not-spam.JPG)
 
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually to deploy this project.
@@ -26,6 +24,13 @@ Login or signup in order to create virtual app. You can either connect your gith
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
 The next step would be to follow the instruction given in the [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+
+## How will this project help?
+• This project **helps in filtering/cleaning the SMS from the phone.**
+
+## Resources Used
+• Packages: **pandas, numpy, sklearn, matplotlib, seaborn, nltk.**<br/>
+• Dataset by **UCI Machine Learing on Kaggle**: https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 ## Technologies Used
 
