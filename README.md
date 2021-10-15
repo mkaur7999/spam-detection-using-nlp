@@ -1,4 +1,4 @@
-# NLP-Model-Deployment
+# NLP-Spam Detection Model-Deployment
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
 
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
@@ -18,7 +18,7 @@ Deployed at: _https://spam101803562.herokuapp.com/_
 • Dataset by **UCI Machine Learing on Kaggle**: https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 ## Flowchart of Methodology
-![Flowchart of Methodology](https://github.com/mkaur7999/car-price-prediction/blob/main/templates/Flowchart%20of%20Methodology.png)
+![Flowchart of Methodology](https://github.com/mkaur7999/spam-detection-using-nlp/blob/main/Flowchart_of_Methodology.jpeg)
 
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually to deploy this project.
